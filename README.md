@@ -25,3 +25,4 @@ IT @ NIT Srinagar • C++ • Python • Web Dev • DSA
 [![](https://komarev.com/ghpvc/?username=NatiqJavid1514&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/NatiqJavid1514/NatiqJavid1514/blob/output/github-contribution-grid-snake.gif)
